@@ -1,4 +1,4 @@
-class movezeros
+class solution
 {
     public void moveZeroes(int[] arr) 
     {
