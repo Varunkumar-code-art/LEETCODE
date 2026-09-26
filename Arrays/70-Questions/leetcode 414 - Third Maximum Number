@@ -25,6 +25,7 @@ class Solution
                 third=arr[i];
             }
         }
+
         if(third == Long.MIN_VALUE)
         {
             return (int) first;
